@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-- 🔭 I’m currently working on JAVA Project<br>
+- - 🔭 I’m currently working on JAVA Project<br>
 - - 🌱 I’m currently learning AWS Cloud<br>
 - - 💬 Ask me about Java<br>
 - - 📫 How to reach me on LinkedIn<br>
